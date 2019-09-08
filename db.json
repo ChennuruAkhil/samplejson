@@ -1,8 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "Wifi router": 1, "wifi extender": "Post 1","TeWe Box 2 m/HD":3,"TeWe Box 2 u/HD":6 },
+    { "Wifi router": 1, "wifi extender": "Post 1","TeWe Box 2 m/HD":3,"TeWe Box 2 u/HD":6 },
+  { "Wifi router": 1, "wifi extender": "Post 1","TeWe Box 2 m/HD":3,"TeWe Box 2 u/HD":6 },
+    { "Wifi router": 1, "wifi extender": "Post 1","TeWe Box 2 m/HD":3,"TeWe Box 2 u/HD":6 },
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
