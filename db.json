@@ -5,6 +5,8 @@
     { "Wifi router": 1, "wifi extender": 50,"TeWe Box 2 m/HD":30,"TeWe Box 2 u/HD":6 },
     { "Wifi router": 11, "wifi extender": 25,"TeWe Box 2 m/HD":3,"TeWe Box 2 u/HD":60 }
      ],
+  "data":
+    {"Id":1,"Criteria":"Lid"},
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
