@@ -20,12 +20,3 @@
   { "Los Id": 1, "prosjektKode": 14,"Ordere System":3,"sentdtdato":6,"Installatios data":6,"Status":6,"sentdtdato":6,"Ordre type":6,"Lu-nr":45 },
   { "Los Id": 1, "prosjektKode": 14,"Ordere System":3,"sentdtdato":6,"Installatios data":6,"Status":6,"sentdtdato":6,"Ordre type":6,"Lu-nr":45 }]
 }
-
-<th>Los Id</th>
-        <th>prosjektKode</th>
-        <th>Ordere System</th>
-        <th>sentdtdato</th>
-        <th>Installatios data</th>
-        <th>Status</th>
-        <th>Ordre type</th>
-        <th>Lu-nr</th>
