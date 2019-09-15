@@ -53,7 +53,7 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 1,
+			"LosId": 2,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
@@ -63,7 +63,7 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 1,
+			"LosId": 3,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
@@ -73,7 +73,7 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 1,
+			"LosId": 4,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
@@ -83,7 +83,7 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 1,
+			"LosId": 5,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
