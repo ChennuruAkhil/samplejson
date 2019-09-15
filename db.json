@@ -43,54 +43,54 @@
 		"name": "typicode"
 	},
 	"search": [{
-			"Los Id": 1,
+			"LosId": 1,
 			"prosjektKode": 14,
-			"Ordere System": 3,
+			"OrdereSystem": 3,
 			"sentdtdato": 6,
-			"Installatios data": 6,
+			"Installatiosdata": 6,
 			"Status": 6,
-			"Ordre type": 6,
-			"Lu-nr": 45
+			"Ordretype": 6,
+			"Lunr": 45
 		},
 		{
-			"Los Id": 1,
+			"LosId": 1,
 			"prosjektKode": 14,
-			"Ordere System": 3,
+			"OrdereSystem": 3,
 			"sentdtdato": 6,
-			"Installatios data": 6,
+			"Installatiosdata": 6,
 			"Status": 6,
-			"Ordre type": 6,
-			"Lu-nr": 45
+			"Ordretype": 6,
+			"Lunr": 45
 		},
 		{
-			"Los Id": 1,
+			"LosId": 1,
 			"prosjektKode": 14,
-			"Ordere System": 3,
+			"OrdereSystem": 3,
 			"sentdtdato": 6,
-			"Installatios data": 6,
+			"Installatiosdata": 6,
 			"Status": 6,
-			"Ordre type": 6,
-			"Lu-nr": 45
+			"Ordretype": 6,
+			"Lunr": 45
 		},
 		{
-			"Los Id": 1,
+			"LosId": 1,
 			"prosjektKode": 14,
-			"Ordere System": 3,
+			"OrdereSystem": 3,
 			"sentdtdato": 6,
-			"Installatios data": 6,
+			"Installatiosdata": 6,
 			"Status": 6,
-			"Ordre type": 6,
-			"Lu-nr": 45
+			"Ordretype": 6,
+			"Lunr": 45
 		},
 		{
-			"Los Id": 1,
+			"LosId": 1,
 			"prosjektKode": 14,
-			"Ordere System": 3,
+			"OrdereSystem": 3,
 			"sentdtdato": 6,
-			"Installatios data": 6,
+			"Installatiosdata": 6,
 			"Status": 6,
-			"Ordre type": 6,
-			"Lu-nr": 45
+			"Ordretype": 6,
+			"Lunr": 45
 		}
 	]
 }
