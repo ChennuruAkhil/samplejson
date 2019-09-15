@@ -42,7 +42,8 @@
 	"profile": {
 		"name": "typicode"
 	},
-	"search": [{
+	"search": [{ 
+		        "id": 1,
 			"LosId": 1,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
@@ -53,7 +54,8 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 2,
+			"id": 2,
+			"LosId": 1,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
@@ -63,7 +65,8 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 3,
+			"id": 3,
+			"LosId": 1,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
@@ -73,7 +76,8 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 4,
+			"id": 4,
+			"LosId": 1,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
@@ -83,14 +87,14 @@
 			"Lunr": 45
 		},
 		{
-			"LosId": 5,
+		        "id": 5,
+			"LosId": 1,
 			"prosjektKode": 14,
 			"OrdereSystem": 3,
 			"sentdtdato": 6,
 			"Installatiosdata": 6,
 			"Status": 6,
 			"Ordretype": 6,
-			"Lunr": 45
-		}
+			"Lunr": 45		}
 	]
 }
