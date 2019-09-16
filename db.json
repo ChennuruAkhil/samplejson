@@ -45,56 +45,55 @@
 	"search": [{ 
 		        "id": 1,
 			"LosId": 1,
-			"prosjektKode": 14,
-			"OrdereSystem": 3,
-			"sentdtdato": 6,
-			"Installatiosdata": 6,
+			"prosjektKode": "mkremk",
+			"OrdereSystem": "sinsen",
+			"sentdtdato": "10/9/16",
+			"Installatiosdata": "8/12/17",
 			"Status": 6,
 			"Ordretype": 6,
-			"Lunr": 45
+			"Lunr": "LU45"
 		},
 		{
-			"id": 1,
-			"LosId": 1,
-			"prosjektKode": 14,
-			"OrdereSystem": 3,
-			"sentdtdato": 6,
-			"Installatiosdata": 6,
-			"Status": 6,
+			"id": 2,
+			"LosId": 2,
+			"prosjektKode": "hbvhmk",
+			"OrdereSystem": "Oms",
+			"sentdtdato": "10/9/17",
+			"Installatiosdata": "9/12/17",
+			"Status": 8,
 			"Ordretype": 6,
-			"Lunr": 45
-		},
+			"Lunr": "LU4565"		},
 		{
 			"id": 3,
-			"LosId": 1,
-			"prosjektKode": 14,
-			"OrdereSystem": 3,
-			"sentdtdato": 6,
-			"Installatiosdata": 6,
+			"LosId": 3,
+			"prosjektKode": "mgjrgmk",
+			"OrdereSystem": "Abel",
+			"sentdtdato": "6/12/16",
+			"Installatiosdata": "5/3/17",
 			"Status": 6,
 			"Ordretype": 6,
-			"Lunr": 45
+			"Lunr": "LU4765"
 		},
 		{
 			"id": 4,
-			"LosId": 1,
-			"prosjektKode": 14,
-			"OrdereSystem": 3,
-			"sentdtdato": 6,
-			"Installatiosdata": 6,
+			"LosId": 4,
+			"prosjektKode": "mkremk",
+			"OrdereSystem": "SAG",
+			"sentdtdato": "12/9/18",
+			"Installatiosdata": "6/4/17",
 			"Status": 6,
 			"Ordretype": 6,
-			"Lunr": 45
+			"Lunr": "LU4335"
 		},
 		{
 		        "id": 5,
-			"LosId": 1,
-			"prosjektKode": 14,
-			"OrdereSystem": 3,
-			"sentdtdato": 6,
-			"Installatiosdata": 6,
+			"LosId": 5,
+			"prosjektKode": "mggmk",
+			"OrdereSystem": "Defakto",
+			"sentdtdato": "10/10/17",
+			"Installatiosdata": "8/3/19",
 			"Status": 6,
 			"Ordretype": 6,
-			"Lunr": 45		}
+			"Lunr": "LU43355"		}
 	]
 }
