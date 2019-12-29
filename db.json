@@ -24,7 +24,22 @@
 			"TeWe Box 2 u/HD": 60
 		}
 	],
-	"data": [{name:"Hello",gen:"male"},{name:"Hello1",gen:"female"},{name:"Hello2",gen:"female"},{name:"Hello3",gen:"male"},{name:"Hello4",gen:"female"}],
+	"data": [{
+	"name": "Hello",
+	"gen": "male"
+}, {
+	"name": "Hello1",
+	"gen": "female"
+}, {
+	"name": "Hello2",
+	"gen": "female"
+}, {
+	"name": "Hello3",
+	"gen": "male"
+}, {
+	"name": "Hello4",
+	"gen": "female"
+}],
 	"comments": [{
 			"id": 1,
 			"body": "some comment",
