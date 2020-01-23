@@ -24,22 +24,6 @@
 			"TeWe Box 2 u/HD": 60
 		}
 	],
-	"data": [{
-	"name": "Hello",
-	"gen": "male"
-}, {
-	"name": "Hello1",
-	"gen": "female"
-}, {
-	"name": "Hello2",
-	"gen": "female"
-}, {
-	"name": "Hello3",
-	"gen": "male"
-}, {
-	"name": "Hello4",
-	"gen": "female"
-}],
 	"comments": [{
 			"id": 1,
 			"body": "some comment",
@@ -51,62 +35,6 @@
 			"postId": 1
 		}
 	],
-	"profile": {
-		"name": "typicode"
-	},
-	"search": [{ 
-		        "id": 1,
-			"LosId": 1,
-			"prosjektKode": "mkremk",
-			"OrdereSystem": "sinsen",
-			"sentdtdato": "10/9/16",
-			"Installatiosdata": "8/12/17",
-			"Status": 6,
-			"Ordretype": 6,
-			"Lunr": "LU45"
-		},
-		{
-			"id": 2,
-			"LosId": 2,
-			"prosjektKode": "hbvhmk",
-			"OrdereSystem": "Oms",
-			"sentdtdato": "10/9/17",
-			"Installatiosdata": "9/12/17",
-			"Status": 8,
-			"Ordretype": 6,
-			"Lunr": "LU4565"		},
-		{
-			"id": 3,
-			"LosId": 3,
-			"prosjektKode": "mgjrgmk",
-			"OrdereSystem": "Abel",
-			"sentdtdato": "6/12/16",
-			"Installatiosdata": "5/3/17",
-			"Status": 6,
-			"Ordretype": 6,
-			"Lunr": "LU4765"
-		},
-		{
-			"id": 4,
-			"LosId": 4,
-			"prosjektKode": "mkremk",
-			"OrdereSystem": "SAG",
-			"sentdtdato": "12/9/18",
-			"Installatiosdata": "6/4/17",
-			"Status": 6,
-			"Ordretype": 6,
-			"Lunr": "LU4335"
-		},
-		{
-		        "id": 5,
-			"LosId": 5,
-			"prosjektKode": "mggmk",
-			"OrdereSystem": "Defakto",
-			"sentdtdato": "10/10/17",
-			"Installatiosdata": "8/3/19",
-			"Status": 6,
-			"Ordretype": 6,
-			"Lunr": "LU43355"		}
-	],
+	
 	"getAll":[{"restaurant_id":1,"restaurant_name":"Pista house","restaurant_logo":"././/fkdfjk","description":"nice restaurant"},{"restaurant_id":2,"restaurant_name":"Pista1 house","restaurant_logo":"././/fkdfjk","description":"nice restaurant"},{"restaurant_id":3,"restaurant_name":"Pista2 house","restaurant_logo":"././/fkdfjk","description":"nice restaurant"}]
 }
