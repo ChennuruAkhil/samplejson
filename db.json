@@ -107,5 +107,6 @@
 			"Status": 6,
 			"Ordretype": 6,
 			"Lunr": "LU43355"		}
-	]
+	],
+	"getAll":[{"restaurant_id":1,"restaurant_name":"Pista house","restaurant_logo":"././/fkdfjk","description":"nice restaurant"},{"restaurant_id":2,"restaurant_name":"Pista1 house","restaurant_logo":"././/fkdfjk","description":"nice restaurant"},{"restaurant_id":3,"restaurant_name":"Pista2 house","restaurant_logo":"././/fkdfjk","description":"nice restaurant"}]
 }
