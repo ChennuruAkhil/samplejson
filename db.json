@@ -3,7 +3,7 @@
 	"restaurant_id": 1,
 	"restaurant_name": "Pista House",
 	"restaurant_logo": "../../../assets/pista_house_logo_12.jpg",
-	"description": "Biryani, Hyderabadi, North Indian, Tandoor, Mughlai, Chinese, Bakery, Pizzas"
+	"description": "Biryani, Hyderabadi, North Indian"
 }, {
 	"restaurant_id": 2,
 	"restaurant_name": "Pista House Bakery",
@@ -11,24 +11,23 @@
 	"description": "Bakery"
 }, {
 	"restaurant_id": 3,
-	"restaurant_name": "Istah - Shawarma and Biryani",
+	"restaurant_name": "Istah - Shawarma",
 	"restaurant_logo": "../../../assets/shawarma.jpg",
-	"description": "Arabian, Lebanese, Mediterranean, Biryani"
-},
-{
-	"restaurant_id": 1,
-	"restaurant_name": "Pista House",
-	"restaurant_logo": "../../../assets/pista_house_logo_12.jpg",
-	"description": "Biryani, Hyderabadi, North Indian, Tandoor, Mughlai, Chinese, Bakery, Pizzas"
+	"description": "Arabian, Lebanese, Biryani"
 }, {
-	"restaurant_id": 2,
-	"restaurant_name": "Pista House Bakery",
-	"restaurant_logo": "../../../assets/pista_house_bakery_logo_12.jpg",
-	"description": "Bakery"
+	"restaurant_id": 4,
+	"restaurant_name": "Agra Sweets",
+	"restaurant_logo": "../../../assets/Agra_sweets.jpg",
+	"description": "Sweets and Snacks"
 }, {
-	"restaurant_id": 3,
-	"restaurant_name": "Istah - Shawarma and Biryani",
-	"restaurant_logo": "../../../assets/shawarma.jpg",
-	"description": "Arabian, Lebanese, Mediterranean, Biryani"
+	"restaurant_id": 5,
+	"restaurant_name": "The China Street",
+	"restaurant_logo": "../../../assets/China_street.jpg",
+	"description": "Chinese dishes "
+}, {
+	"restaurant_id": 6,
+	"restaurant_name": "Punjabi Affair",
+	"restaurant_logo": "../../../assets/punjabi_affair.jpg",
+	"description": "Beverages, Desserts, Salads"
 }]
 }
